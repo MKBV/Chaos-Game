@@ -51,7 +51,7 @@ t.dot("red")
 ##Dots
 t.pensize(0.1)
 while True:
-    rcr = random.choice([c1,c2,c3])
+    rcr = random.choice(crn)
     xt = (rcr[0]+t.pos()[0])/2
     yt = (rcr[1]+t.pos()[1])/2
     t.goto(xt,yt)
