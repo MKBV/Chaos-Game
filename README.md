@@ -30,7 +30,7 @@ Then we chose a random corner and find the midpoint between the corner and the p
 That is the easiest part of the code. Because has a simple math formula.
 And when we put dots to midpoints, the script must be finished.
 
-After a while of this progression, I got shapes like those.
+After a while of this progression, I got shapes like these.
 
 ![Images](/Img/Images.jpg)
 
