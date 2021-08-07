@@ -41,4 +41,4 @@ That algorithm is perfectly run at the triangle, but if the shape has 4 or more 
 
 You can change the pattern by changing the corner order.  
 If we chose a different corner from the last process there won't appear a misspattern. **(Example 2nd )**  
-Or you can dismiss the next corner (Example 3rd) or the next 2nd corner **(Example 4th)**.  
+Or you can dismiss the next corner **(Example 3rd)** or the next 2nd corner **(Example 4th)**.  
